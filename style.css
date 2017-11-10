@@ -163,7 +163,7 @@ hr.bar{
     text-align: center;
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1023px){/*RWD*/
 	.container{
 		width:auto;
 	}
@@ -218,7 +218,7 @@ hr.bar{
 
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px){ /*RWD*/
 	.menu-button,
 	.menu-button-checkbox{
 		display: none;
